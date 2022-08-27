@@ -1,0 +1,6 @@
+include <stdio.h>
+int main()
+{
+printf("jike1902llf");
+}
+return 0;
